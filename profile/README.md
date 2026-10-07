@@ -52,5 +52,8 @@ A way around one of our tools is a vulnerability. Report it privately from the r
 
 <p align="center">
   <br>
-  <img src="https://raw.githubusercontent.com/inari-suite-org/.github/main/profile/assets/logo/inari-kitsune-transparent.svg" alt="" width="84">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/inari-suite-org/.github/main/profile/assets/logo/inari-kitsune-on-dark.svg">
+    <img src="https://raw.githubusercontent.com/inari-suite-org/.github/main/profile/assets/logo/inari-kitsune-transparent.svg" alt="" width="84">
+  </picture>
 </p>
